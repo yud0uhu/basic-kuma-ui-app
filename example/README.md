@@ -9,6 +9,7 @@
 - [Emotion ユーザーが Kuma UI を試してみたら結構いい感じ](https://zenn.dev/yuneco/articles/kuma-ui-trial)
 
 ## 例 : 動的に style を書き換える
+![image](https://github.com/yud0uhu/basic-kuma-ui-app/assets/60646787/ad178804-5879-42ba-823a-06a89550ed94)
 
 以下に示す様に、props で動的な styled を適用させる書き方は実行時に処理されるため、
 パフォーマンスの観点では css utility を使った書き方が推奨されている。
